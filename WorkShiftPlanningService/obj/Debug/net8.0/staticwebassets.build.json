@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FgQNuU4XT1H5Q68XFTZor0XmHQhqpjHHcQu5qeouQb4=",
+  "Source": "WorkShiftPlanningService",
+  "BasePath": "_content/WorkShiftPlanningService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

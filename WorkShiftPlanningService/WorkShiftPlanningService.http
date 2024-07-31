@@ -1,0 +1,6 @@
+@WorkShiftPlanningService_HostAddress = http://localhost:5232
+
+GET {{WorkShiftPlanningService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

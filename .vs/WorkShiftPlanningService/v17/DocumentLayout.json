@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\models\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\models\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\models\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\models\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\models\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\models\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|a:\\programming\\c#\\education\\projects\\workshiftplanningservice\\workshiftplanningservice\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\controllers\\workshiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\controllers\\workshiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\models\\services\\workshiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\models\\services\\workshiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\models\\workshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\models\\workshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\models\\services\\iworkshiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\models\\services\\iworkshiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\workshiftplanningservice\\models\\services\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC51685-522D-4BE4-A40D-6D8DFCC8CEBD}|WorkShiftPlanningService\\WorkShiftPlanningService.csproj|solutionrelative:workshiftplanningservice\\models\\services\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Controllers\\RestaurantController.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:26:38.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Controllers\\StaffController.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:51:36.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Models\\Staff.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Staff.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:24:26.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Models\\Department.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Department.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:23:25.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainDbContext.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\MainDbContext.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Models\\MainDbContext.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\MainDbContext.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Models\\MainDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T20:37:10.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Services\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Models\\Services\\RestaurantService.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Services\\RestaurantService.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Models\\Services\\RestaurantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:51:11.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Services\\StaffService.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Models\\Services\\StaffService.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Services\\StaffService.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Models\\Services\\StaffService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:31:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStaffService.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Services\\IStaffService.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Models\\Services\\IStaffService.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Services\\IStaffService.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Models\\Services\\IStaffService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:30:06.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IWorkShiftService.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Services\\IWorkShiftService.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Models\\Services\\IWorkShiftService.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Services\\IWorkShiftService.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Models\\Services\\IWorkShiftService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:00:19.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkShiftService.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Services\\WorkShiftService.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Models\\Services\\WorkShiftService.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Services\\WorkShiftService.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Models\\Services\\WorkShiftService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:18:54.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkShift.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\WorkShift.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Models\\WorkShift.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\WorkShift.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Models\\WorkShift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:51:03.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Program.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Program.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Program.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:45:49.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkShiftController.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Controllers\\WorkShiftController.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Controllers\\WorkShiftController.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Controllers\\WorkShiftController.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Controllers\\WorkShiftController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:23:41.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\Models\\Restaurant.cs",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\Models\\Restaurant.cs",
+              "RelativeToolTip": "WorkShiftPlanningService\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:24:04.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkShiftPlanningService\\appsettings.json",
+              "ToolTip": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\appsettings.json",
+              "RelativeToolTip": "WorkShiftPlanningService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T10:45:18.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
