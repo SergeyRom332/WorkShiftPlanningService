@@ -15,7 +15,7 @@ builder.Services.AddWorkShiftService();
 builder.Services.AddStaffService();
 builder.Services.AddRestaurantService();
 
-builder.Services.AddDbContext<MainDbContext>(options => options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"), ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection"))));
+builder.Services.AddDbContext<MainDbContext>(options => options.UseMySql(builder.Configuration.GetConnectionString("WorkShiftDb"), ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("WorkShiftDb"))));
 
 var app = builder.Build();
 

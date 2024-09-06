@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkShiftPlanningService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8da6cdc92f0d3a68dec2fd6c91d2ba40fcc13633")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkShiftPlanningService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkShiftPlanningService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

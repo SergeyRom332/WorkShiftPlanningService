@@ -2,7 +2,7 @@
 {
     public interface IWorkShiftService
     {
-        public Task<List<WorkShift>> GetWorkShiftsAsync(int restaurantId, DateTime dateFirst, DateTime dateSecond);
+        public Task<List<WorkShift>> GetWorkShiftsAsync(DateTime dateFirst, DateTime dateSecond, int restaurantId = 0);
         public Task<WorkShift> GetWorkShiftAsync(int id);
         public Task AddWorkShiftAsync(WorkShift workShift);
         public Task UpdateWorkShiftAsync(WorkShift workShift);

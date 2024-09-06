@@ -11,10 +11,13 @@ namespace WorkShiftPlanningService.Models.Services
             _dbContext = dbContext;
         }
 
-        public async Task<List<WorkShift>> GetWorkShiftsAsync(int restaurantId, DateTime dateFirst, DateTime dateSecond)
+        public async Task<List<WorkShift>> GetWorkShiftsAsync(DateTime dateFirst, DateTime dateSecond, int restaurantId = 0)
         {
-            return await _dbContext.WorkShifts
-                .Where(i => i.RestaurantId == restaurantId && i.Date >= dateFirst && i.Date <= dateSecond)
+            var query = _dbContext.WorkShifts.Where(i=>i.Date.Date >= dateFirst.Date && i.Date <= dateSecond.Date);
+
+            if (restaurantId != 0) query.Where(i => i.RestaurantId == restaurantId);
+
+            return await query
                 .Include(i=>i.Restaurant)
                 .Include(i=>i.Staff)
                 .ToListAsync();

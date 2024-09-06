@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\WorkShiftPlanningService.csproj": {}
+    "A:\\Programming\\C#\\Projects\\git\\WorkShiftPlanningService\\WorkShiftPlanningService\\WorkShiftPlanningService.csproj": {}
   },
   "projects": {
-    "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\WorkShiftPlanningService.csproj": {
+    "A:\\Programming\\C#\\Projects\\git\\WorkShiftPlanningService\\WorkShiftPlanningService\\WorkShiftPlanningService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\WorkShiftPlanningService.csproj",
+        "projectUniqueName": "A:\\Programming\\C#\\Projects\\git\\WorkShiftPlanningService\\WorkShiftPlanningService\\WorkShiftPlanningService.csproj",
         "projectName": "WorkShiftPlanningService",
-        "projectPath": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\WorkShiftPlanningService.csproj",
+        "projectPath": "A:\\Programming\\C#\\Projects\\git\\WorkShiftPlanningService\\WorkShiftPlanningService\\WorkShiftPlanningService.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "A:\\Programming\\C#\\Education\\Projects\\WorkShiftPlanningService\\WorkShiftPlanningService\\obj\\",
+        "outputPath": "A:\\Programming\\C#\\Projects\\git\\WorkShiftPlanningService\\WorkShiftPlanningService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
